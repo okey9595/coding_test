@@ -1,7 +1,8 @@
+//hello 출력하기
+
 #include <iostream>
 using namespace std;
 
 int main(){
-    cout<<"this is ? ";
-    
+    cout<<"hello";
 }
